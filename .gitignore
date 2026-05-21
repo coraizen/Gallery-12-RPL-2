@@ -1,0 +1,6 @@
+.env
+node_modules
+serviceAccount.json
+assets/vidhero.mp4
+.vercel
+.env*.local

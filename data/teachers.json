@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Bpk. Ari Hartanto",
+    "subject": "Wali Kelas (X RPL 1) & BD",
+    "birthInfo": "Jakarta, 14 Maret 1985",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289026/profiles/avatar/bspi1vhuzy3wb9n9ugp6.jpg",
+    "gallery": [
+      "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Belajar matematika itu mudah jika kalian mengerti konsep dasarnya. Tetap semangat anak-anak XII RPL 2!",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "paari@guru.sch.id"
+  },
+  {
+    "id": 2,
+    "name": "Miss Maryatul Qibtiyah",
+    "subject": "Wali Kelas & Matematika",
+    "birthInfo": "Jakarta, 19 Februari 2002",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779290140/stiker_kucing_2_vmghc4.jpg",
+    "gallery": [],
+    "bio": "Belajar matematika itu mudah jika kalian mengerti konsep dasarnya. Tetap semangat anak-anak XII RPL 2!",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "ririi@guru.sch.id"
+  }
+]

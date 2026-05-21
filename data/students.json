@@ -1,0 +1,539 @@
+[
+  {
+    "id": 1,
+    "name": "Adila Safitri",
+    "birthInfo": "Jakarta, 5 Oktober 2008",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289820/cat12_m5o08j.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [""],
+    "bio": "Keep pushing forward, never give up. Code is poetry.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "adila@murid.sch.id"
+  },
+  {
+    "id": 2,
+    "name": "Ahmad Fauzan",
+    "birthInfo": "Jakarta, 19 November 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289823/cat_kig236.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1521119989659-a83eee488004?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Sebenernya otak kita sama aja, yang membedakan ialah siapa yang terus belajar.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "zan@murid.sch.id"
+  },
+  {
+    "id": 3,
+    "name": "Akbar Al-Aqsa",
+    "birthInfo": "Jakarta, 16 Oktober 2008",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289813/cat3_iokgf9.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [],
+    "bio": "Basketball is life 🏀",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "akbar@murid.sch.id"
+  },
+  {
+    "id": 4,
+    "name": "Ari Putra Anggara",
+    "birthInfo": "Jakarta, 22 Oktober 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289821/cat18_idc2wl.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "ari@murid.sch.id"
+  },
+  {
+    "id": 5,
+    "name": "Ayu Muslimah",
+    "birthInfo": "Jakarta, 19 Oktober 2008",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289814/cat4_grmsg6.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "ayu@murid.sch.id"
+  },
+  {
+    "id": 6,
+    "name": "Chila Novianti",
+    "birthInfo": "Jakarta, 24 November 2006",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289814/cat5_wapjoa.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "chila@murid.sch.id"
+  },
+  {
+    "id": 7,
+    "name": "Christian Rivaldo R Heydemans",
+    "birthInfo": "Jakarta, 4 Mei 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779290140/cat14_rhlsqk.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "tian@murid.sch.id"
+  },
+  {
+    "id": 8,
+    "name": "Daffa Syarifullah",
+    "birthInfo": "Jakarta, 15 Agustus 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289815/cat6_dakapj.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "daffa@murid.sch.id"
+  },
+  {
+    "id": 9,
+    "name": "Erwin Idam",
+    "birthInfo": "Jakarta, 3 Juni 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289813/cat3_iokgf9.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "erwin@murid.sch.id"
+  },
+  {
+    "id": 10,
+    "name": "Nur Anisa",
+    "birthInfo": "Jakarta, 26 April 2006",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289820/cat12_m5o08j.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "fitriayu@murid.sch.id"
+  },
+  {
+    "id": 11,
+    "name": "Imam Mazmuri",
+    "birthInfo": "Jakarta, 30 Mei 2008",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289823/cat_kig236.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "imam@murid.sch.id"
+  },
+  {
+    "id": 12,
+    "name": "Kahfi Syaiful Abdillah",
+    "birthInfo": "Jakarta, 9 Februari 2008",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289821/cat18_idc2wl.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "kahfi@murid.sch.id"
+  },
+  {
+    "id": 13,
+    "name": "Kayla Nurfatiha",
+    "birthInfo": "Jakarta, 4 Mei 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289818/cat10_wek8ev.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "lala@murid.sch.id"
+  },
+  {
+    "id": 14,
+    "name": "Kayla Salsabilla Octaviani",
+    "birthInfo": "Jakarta, 12 Oktober 2008",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289815/cat6_dakapj.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "kala@murid.sch.id"
+  },
+  {
+    "id": 15,
+    "name": "Keiza Nurul Jannah",
+    "birthInfo": "Pandeglang, 5 Juli 2009",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779290140/cat14_rhlsqk.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "keja@murid.sch.id"
+  },
+  {
+    "id": 16,
+    "name": "Mochamad Rapli Pirdaus",
+    "birthInfo": "Jakarta, 28 Maret 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779290139/cat20_ykae87.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "rapli@murid.sch.id"
+  },
+  {
+    "id": 17,
+    "name": "Muhammad Ikbar Sya'ban",
+    "birthInfo": "Jakarta, 8 September 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289815/cat6_dakapj.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "ibay@murid.sch.id"
+  },
+  {
+    "id": 18,
+    "name": "Muhammad Kosim",
+    "birthInfo": "Jakarta, 20 Oktober 2006",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289823/cat_kig236.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "kosim@murid.sch.id"
+  },
+  {
+    "id": 19,
+    "name": "Muhammad Rafi Hermawan",
+    "birthInfo": "Jakarta, 10 Juni 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289814/cat4_grmsg6.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "rafi@murid.sch.id"
+  },
+  {
+    "id": 20,
+    "name": "Nandito Alpiansyah",
+    "birthInfo": "Jakarta, 27 November 2006",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289818/cat10_wek8ev.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "dito@murid.sch.id"
+  },
+  {
+    "id": 21,
+    "name": "Nathansyach Tyartal Munjiyat",
+    "birthInfo": "Jakarta, 26 Oktober 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779290139/cat20_ykae87.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "nathan@murid.sch.id"
+  },
+  {
+    "id": 22,
+    "name": "Nayla Haliza",
+    "birthInfo": "Jakarta, 3 Juli 2006",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289814/cat5_wapjoa.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "nayla@murid.sch.id"
+  },
+  {
+    "id": 23,
+    "name": "Fitri Ayu Ramadhani",
+    "birthInfo": "Jakarta, 18 Oktober 2006",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289821/cat18_idc2wl.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "fitriayu@murid.sch.id"
+  },
+  {
+    "id": 24,
+    "name": "Nur Kamelia",
+    "birthInfo": "Jakarta, 25 November 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289820/cat12_m5o08j.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "amel@murid.sch.id"
+  },
+  {
+    "id": 25,
+    "name": "Nur Maulidya",
+    "birthInfo": "Jakarta, 31 Maret 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289813/cat3_iokgf9.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "lidya@murid.sch.id"
+  },
+  {
+    "id": 26,
+    "name": "Nur Seftiani",
+    "birthInfo": "Jakarta, 12 Mei 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779290140/cat14_rhlsqk.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "epi@murid.sch.id"
+  },
+  {
+    "id": 27,
+    "name": "Putri Ayu",
+    "birthInfo": "Jakarta, 7 April 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289823/cat_kig236.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "uti@murid.sch.id"
+  },
+  {
+    "id": 28,
+    "name": "Radiva Esa",
+    "birthInfo": "Jakarta, 30 Januari 2008",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289815/cat6_dakapj.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "diva@murid.sch.id"
+  },
+  {
+    "id": 29,
+    "name": "Sofiah Andini",
+    "birthInfo": "Bekasi, 11 Oktober 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289814/cat5_wapjoa.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "sofi@murid.sch.id"
+  },
+  {
+    "id": 30,
+    "name": "Sri Wulandari",
+    "birthInfo": "Jakarta, 14 Desember 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289814/cat4_grmsg6.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "wulan@murid.sch.id"
+  },
+  {
+    "id": 31,
+    "name": "Syahrani",
+    "birthInfo": "Jakarta, 27 November 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289821/cat18_idc2wl.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "rani@murid.sch.id"
+  },
+  {
+    "id": 32,
+    "name": "Talita Aulia Ananda",
+    "birthInfo": "Jakarta, 11 Maret 2008",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289820/cat12_m5o08j.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "talita@murid.sch.id"
+  },
+  {
+    "id": 33,
+    "name": "Yanti Faraddila",
+    "birthInfo": "Jakarta, 2 Agustus 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289815/cat6_dakapj.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "yanti@murid.sch.id"
+  },
+  {
+    "id": 34,
+    "name": "Zahra Eka Putri",
+    "birthInfo": "Jakarta, 22 Desember 2007",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289823/cat_kig236.jpg?q=80&w=800&auto=format&fit=crop",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+    ],
+    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "social": {
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "ownerEmail": "zahra@murid.sch.id"
+  }
+]
