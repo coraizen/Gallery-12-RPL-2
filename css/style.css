@@ -585,6 +585,12 @@ img {
   opacity: 0.3;
   cursor: default;
 }
+.pag-dots {
+  display: flex;
+  align-items: center;
+  padding: 0 4px;
+  color: var(--text-secondary);
+}
 
 /* ============================================================
    LIGHTBOX

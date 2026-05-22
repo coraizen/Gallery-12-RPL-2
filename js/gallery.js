@@ -130,12 +130,56 @@ function renderPagination() {
   pag.appendChild(prev);
 
   // Pages
-  for (let i = 1; i <= totalPages; i++) {
+  // Pages
+  const delta = 2;
+  const range = [];
+  for (
+    let i = Math.max(2, currentPage - delta);
+    i <= Math.min(totalPages - 1, currentPage + delta);
+    i++
+  ) {
+    range.push(i);
+  }
+
+  // First page
+  const first = document.createElement("button");
+  first.className = "pag-btn" + (1 === currentPage ? " active" : "");
+  first.textContent = 1;
+  first.addEventListener("click", () => goToPage(1));
+  pag.appendChild(first);
+
+  // Ellipsis kiri
+  if (range[0] > 2) {
+    const dots = document.createElement("span");
+    dots.className = "pag-dots";
+    dots.textContent = "...";
+    pag.appendChild(dots);
+  }
+
+  // Middle pages
+  range.forEach((i) => {
     const btn = document.createElement("button");
     btn.className = "pag-btn" + (i === currentPage ? " active" : "");
     btn.textContent = i;
     btn.addEventListener("click", () => goToPage(i));
     pag.appendChild(btn);
+  });
+
+  // Ellipsis kanan
+  if (range[range.length - 1] < totalPages - 1) {
+    const dots = document.createElement("span");
+    dots.className = "pag-dots";
+    dots.textContent = "...";
+    pag.appendChild(dots);
+  }
+
+  // Last page
+  if (totalPages > 1) {
+    const last = document.createElement("button");
+    last.className = "pag-btn" + (totalPages === currentPage ? " active" : "");
+    last.textContent = totalPages;
+    last.addEventListener("click", () => goToPage(totalPages));
+    pag.appendChild(last);
   }
 
   // Next
