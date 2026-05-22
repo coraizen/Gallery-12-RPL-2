@@ -260,7 +260,7 @@ function renderThumbs() {
     t.className = "thumb-item" + (i === lightboxIndex ? " active" : "");
     const isVideo = item.type === "video" || item.resourceType === "video";
     t.innerHTML = isVideo
-      ? `<video src="${item.src}" class="thumb-media" muted></video>`
+      ? `<video src="${item.src}" class="thumb-media" muted preload="none" poster="${item.src.replace("/upload/", "/upload/so_0,w_400,f_jpg/")}"></video>`
       : `<img src="${item.src}" class="thumb-media" loading="lazy">`;
     t.addEventListener("click", () => {
       lightboxIndex = i;
