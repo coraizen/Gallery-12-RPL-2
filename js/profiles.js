@@ -383,17 +383,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Simpan ke Firestore
         const collectionName = type === "teacher" ? "teachers" : "students";
-        await updateDoc(doc(db, collectionName, String(id).padStart(2, "0")), {
-          name: updatedPerson.name,
-          birthInfo: updatedPerson.birthInfo,
-          bio: updatedPerson.bio,
-          avatar: updatedPerson.avatar,
-          gallery: updatedPerson.gallery,
-          social: {
-            instagram: document.getElementById("edit-instagram").value.trim(),
-            linkedin: document.getElementById("edit-linkedin").value.trim(),
+        await updateDoc(
+          doc(db, collectionName, dataset[personIndex].firestoreId),
+          {
+            name: updatedPerson.name,
+            birthInfo: updatedPerson.birthInfo,
+            bio: updatedPerson.bio,
+            avatar: updatedPerson.avatar,
+            gallery: updatedPerson.gallery,
+            social: {
+              instagram: document.getElementById("edit-instagram").value.trim(),
+              linkedin: document.getElementById("edit-linkedin").value.trim(),
+            },
           },
-        });
+        );
 
         // Update local data
         dataset[personIndex] = updatedPerson;
@@ -433,4 +436,3 @@ document.addEventListener("DOMContentLoaded", () => {
     if (e.key === "Escape") closeModals();
   });
 });
-console.log("profiles.js loaded");
