@@ -139,7 +139,7 @@
   {
     "id": 10,
     "name": "Nur Anisa",
-    "birthInfo": "Jakarta, 26 April 2006",
+    "birthInfo": "Jakarta, 26 April 2007",
     "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289820/cat12_m5o08j.jpg?q=80&w=800&auto=format&fit=crop",
     "gallery": [
       "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
@@ -150,7 +150,7 @@
       "instagram": "https://instagram.com/",
       "linkedin": "https://linkedin.com/"
     },
-    "ownerEmail": "fitriayu@murid.sch.id"
+    "ownerEmail": "nisa@murid.sch.id"
   },
   {
     "id": 11,
@@ -426,7 +426,7 @@
   },
   {
     "id": 28,
-    "name": "Radiva Esa",
+    "name": "Radiva Esa Pradika",
     "birthInfo": "Jakarta, 30 Januari 2008",
     "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289815/cat6_dakapj.jpg?q=80&w=800&auto=format&fit=crop",
     "gallery": [
