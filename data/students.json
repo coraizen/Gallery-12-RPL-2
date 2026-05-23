@@ -4,10 +4,13 @@
     "name": "Adila Safitri",
     "birthInfo": "Jakarta, 5 Oktober 2008",
     "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289820/cat12_m5o08j.jpg?q=80&w=800&auto=format&fit=crop",
-    "gallery": [""],
-    "bio": "Keep pushing forward, never give up. Code is poetry.",
+    "gallery": [
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779548713/profiles/avatar/gay8wvqx5txm5swwsbwm.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779548425/profiles/avatar/ceoap9s1o4ou4hdan8xb.jpg"
+    ],
+    "bio": "wypmafyl???.. idsw?",
     "social": {
-      "instagram": "https://instagram.com/",
+      "instagram": "https://instagram.com/lalalaveoxjue",
       "linkedin": "https://linkedin.com/"
     },
     "ownerEmail": "adila@murid.sch.id"
@@ -16,13 +19,13 @@
     "id": 2,
     "name": "Ahmad Fauzan",
     "birthInfo": "Jakarta, 19 November 2007",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289823/cat_kig236.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779376233/profiles/avatar/y6w6u7opk82vd9qfahkk.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1521119989659-a83eee488004?q=80&w=800&auto=format&fit=crop"
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779376032/profiles/gallery/zaqoqupj8dhr6tg3dkb5.jpg"
     ],
     "bio": "Sebenernya otak kita sama aja, yang membedakan ialah siapa yang terus belajar.",
     "social": {
-      "instagram": "https://instagram.com/",
+      "instagram": "https://instagram.com/4hmdf4zn_",
       "linkedin": "https://linkedin.com/"
     },
     "ownerEmail": "zan@murid.sch.id"
@@ -31,11 +34,11 @@
     "id": 3,
     "name": "Akbar Al-Aqsa",
     "birthInfo": "Jakarta, 16 Oktober 2008",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289813/cat3_iokgf9.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779545920/profiles/avatar/ikvbl6ehfoo7prxjjlfr.jpg",
     "gallery": [],
     "bio": "Basketball is life 🏀",
     "social": {
-      "instagram": "https://instagram.com/",
+      "instagram": "https://instagram.com/alaqsaxs",
       "linkedin": "https://linkedin.com/"
     },
     "ownerEmail": "akbar@murid.sch.id"
@@ -60,12 +63,12 @@
     "id": 5,
     "name": "Ayu Muslimah",
     "birthInfo": "Jakarta, 19 Oktober 2008",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289814/cat4_grmsg6.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779445822/profiles/avatar/a8ntl4mcnf0gbg7v0xma.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779445948/profiles/gallery/iifar713wtsk5nr0fsj8.webp",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779445951/profiles/gallery/jmilhlijakmodr9jsmc7.webp"
     ],
-    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "bio": "Hobi menyanyi, menyayangi",
     "social": {
       "instagram": "https://instagram.com/",
       "linkedin": "https://linkedin.com/"
@@ -92,14 +95,11 @@
     "id": 7,
     "name": "Christian Rivaldo R Heydemans",
     "birthInfo": "Jakarta, 4 Mei 2007",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779290140/cat14_rhlsqk.jpg?q=80&w=800&auto=format&fit=crop",
-    "gallery": [
-      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
-    ],
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779520107/profiles/avatar/issffke0ccuyql6k5tmu.jpg",
+    "gallery": [""],
     "bio": "Hobi melukis dan membaca novel fiksi.",
     "social": {
-      "instagram": "https://instagram.com/",
+      "instagram": "https://instagram.com/yenn_yann05",
       "linkedin": "https://linkedin.com/"
     },
     "ownerEmail": "tian@murid.sch.id"
@@ -108,14 +108,14 @@
     "id": 8,
     "name": "Daffa Syarifullah",
     "birthInfo": "Jakarta, 15 Agustus 2007",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289815/cat6_dakapj.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779392696/profiles/avatar/uyfvq4o39phn4sdbzhpa.jpg",
     "gallery": [
       "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
     ],
     "bio": "Hobi melukis dan membaca novel fiksi.",
     "social": {
-      "instagram": "https://instagram.com/",
+      "instagram": "https://instagram.com/dappasyf",
       "linkedin": "https://linkedin.com/"
     },
     "ownerEmail": "daffa@murid.sch.id"
@@ -124,14 +124,16 @@
     "id": 9,
     "name": "Erwin Idam",
     "birthInfo": "Jakarta, 3 Juni 2007",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289813/cat3_iokgf9.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779375715/profiles/avatar/jdgigzfac5r0qfuo96pw.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779375737/profiles/gallery/ebgia7f9pw1gmdvcsohn.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779375737/profiles/gallery/ebgia7f9pw1gmdvcsohn.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779375740/profiles/gallery/vdurwhkkvk27xe7qw0nq.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779375843/profiles/gallery/ex5nzgs7qxbzmjb4qzvo.jpg"
     ],
-    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "bio": "ubah mimpi lu jadi kenyataan rorr",
     "social": {
-      "instagram": "https://instagram.com/",
+      "instagram": "https://instagram.com/cerceus_",
       "linkedin": "https://linkedin.com/"
     },
     "ownerEmail": "erwin@murid.sch.id"
@@ -140,10 +142,12 @@
     "id": 10,
     "name": "Nur Anisa",
     "birthInfo": "Jakarta, 26 April 2007",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289820/cat12_m5o08j.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779498875/profiles/avatar/jsv5arbbsjuz20kni07v.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779498655/profiles/avatar/igniaqctgzeqffy0vyjm.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779498861/profiles/avatar/j9c222bwbjwkrmx1rlem.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779546872/profiles/avatar/rvaksdkasjan8yinxhhh.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779546914/profiles/gallery/jzw4srbg0xi12kunn04v.jpg"
     ],
     "bio": "Hobi melukis dan membaca novel fiksi.",
     "social": {
@@ -172,14 +176,20 @@
     "id": 12,
     "name": "Kahfi Syaiful Abdillah",
     "birthInfo": "Jakarta, 9 Februari 2008",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289821/cat18_idc2wl.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779382810/profiles/avatar/vhfvjovmauebrlklt6uz.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779382829/profiles/gallery/mbdscuqbyswfsdthg2su.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779382915/profiles/gallery/ttzlituavgksmdmzq6xo.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779383343/profiles/gallery/hcqwjwh0jvjnljkabawg.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779383253/profiles/avatar/gy8eyeftlvcrhlmk1vyb.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779392534/profiles/gallery/y0wefgp08cekx0zwajgr.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779447953/profiles/avatar/pzu1wzfs6vpub4kdqwfk.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779521163/profiles/gallery/p565zz9carvjaf28swc9.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779521141/profiles/gallery/bf5emvxjol8oju3etdmm.jpg"
     ],
     "bio": "Hobi melukis dan membaca novel fiksi.",
     "social": {
-      "instagram": "https://instagram.com/",
+      "instagram": "https://instagram.com/_kpooy08",
       "linkedin": "https://linkedin.com/"
     },
     "ownerEmail": "kahfi@murid.sch.id"
@@ -188,10 +198,10 @@
     "id": 13,
     "name": "Kayla Nurfatiha",
     "birthInfo": "Jakarta, 4 Mei 2007",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289818/cat10_wek8ev.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779546070/profiles/avatar/ffgogvpk9f62umwxd5iw.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779546365/profiles/gallery/x8qjaawpnhm8aiqxiij0.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779546642/profiles/gallery/vjqwcxqxd7tuhxvwmmey.jpg"
     ],
     "bio": "Hobi melukis dan membaca novel fiksi.",
     "social": {
@@ -220,14 +230,26 @@
     "id": 15,
     "name": "Keiza Nurul Jannah",
     "birthInfo": "Pandeglang, 5 Juli 2009",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779290140/cat14_rhlsqk.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779380067/profiles/gallery/zrxxj19nutqdfjznzoyc.webp",
     "gallery": [
-      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779380068/profiles/gallery/bxo8suztsln8zoo7vcw7.webp",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779380070/profiles/gallery/dm54khqmsnhyeadhlnp7.webp",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779380073/profiles/gallery/ezvpdvffawy02vujipzb.webp",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779380171/profiles/avatar/at51gdlbewvbuwrqbl6u.webp",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779380199/profiles/avatar/zjfsh9ydbo4oacezwx2c.webp",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779380983/profiles/gallery/b38hs2opf4lqfakncbrc.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779381001/profiles/gallery/sw7hqpgwvi3rirajez5s.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779381019/profiles/gallery/bak49y2nynjt1qha4jum.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779381074/profiles/gallery/w4uzcz2uzo1hjjnaoomo.webp",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779381117/profiles/gallery/ntogi77nybwpswhlgmk3.webp",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779381119/profiles/gallery/klffxrqakq8skbeip215.webp",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779381120/profiles/gallery/utvjj6fgrbitnmxq4rfk.webp",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779381122/profiles/gallery/v1otkcnueu22lktac65n.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779546288/profiles/avatar/khljyvspryprqpg9cgjx.webp"
     ],
     "bio": "Hobi melukis dan membaca novel fiksi.",
     "social": {
-      "instagram": "https://instagram.com/",
+      "instagram": "https://instagram.com/keiizaaa4",
       "linkedin": "https://linkedin.com/"
     },
     "ownerEmail": "keja@murid.sch.id"
@@ -284,11 +306,8 @@
     "id": 19,
     "name": "Muhammad Rafi Hermawan",
     "birthInfo": "Jakarta, 10 Juni 2007",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289814/cat4_grmsg6.jpg?q=80&w=800&auto=format&fit=crop",
-    "gallery": [
-      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
-    ],
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779523961/profiles/gallery/c6qodiclj969a5zvxk8e.jpg",
+    "gallery": [],
     "bio": "Hobi melukis dan membaca novel fiksi.",
     "social": {
       "instagram": "https://instagram.com/",
@@ -300,14 +319,14 @@
     "id": 20,
     "name": "Nandito Alpiansyah",
     "birthInfo": "Jakarta, 27 November 2006",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289818/cat10_wek8ev.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779374587/profiles/avatar/bytwbhg5ckoitzv1vxoa.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779374673/profiles/gallery/vvecb1ilgq2xbgnarnko.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779374690/profiles/gallery/rnf9jlf38mzhmnqhws6i.jpg"
     ],
-    "bio": "Hobi melukis dan membaca novel fiksi.",
+    "bio": "sitampan dengan semua kenangannya",
     "social": {
-      "instagram": "https://instagram.com/",
+      "instagram": "https://instagram.com/_monarchh12",
       "linkedin": "https://linkedin.com/"
     },
     "ownerEmail": "dito@murid.sch.id"
@@ -380,10 +399,11 @@
     "id": 25,
     "name": "Nur Maulidya",
     "birthInfo": "Jakarta, 31 Maret 2007",
-    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779289813/cat3_iokgf9.jpg?q=80&w=800&auto=format&fit=crop",
+    "avatar": "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779447651/profiles/avatar/pl2byhmkq3kh88d88hl1.jpg",
     "gallery": [
-      "https://images.unsplash.com/photo-1516245834210-c4c142787335?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=800&auto=format&fit=crop"
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779447919/profiles/gallery/xzkgt0g6gcccwcpcrhlg.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779447720/profiles/gallery/mdbr8hgpwhsls6qtxixj.jpg",
+      "https://res.cloudinary.com/dytfj6lsc/image/upload/v1779448117/profiles/gallery/uiixsmxnkqz3upsq9rj5.jpg"
     ],
     "bio": "Hobi melukis dan membaca novel fiksi.",
     "social": {
